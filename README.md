@@ -14,10 +14,10 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 
 ## Concepts/Requirements
 
-* []()
-* []()
-* []()
-* []()
+* [Operational Concept Description (OCD)](OCD.md)
+* [System/Subsystem Specification (SSS)](SSS.md)
+* [Software Requirements Specification (SRS)](SRS.md)
+* [Interface Requirements Specification (IRS)](IRS.md)
 
 ## Design
 

@@ -27,14 +27,14 @@ This paragraph shall describe any operational policies and constraints that appl
 ## 3.3		Description of current system or situation.
 This paragraph shall provide a description of the current system or situation, identifying differences associated with different states or modes of operation (for example, regular, mainte-nance, training, degraded, emergency, alternative-site, wartime, peacetime). The distinction between states and modes is arbitrary. A system may be described in terms of states only, modes only, states within modes, modes within states, or any other scheme that is useful. If the system operates without states or modes, this paragraph shall so state, without the need to create artificial distinctions. The description shall include, as applicable:
 
-	#1 The operational environment and its characteristics
-#1 Major system components and the interconnections among these components
-#1 Interfaces to external systems or procedures
-#1 Capabilities/functions of the current system
-#1 Charts and accompanying descriptions depicting inputs, outputs, data flow, and manual and automated processes sufficient to understand the current system or situation from the user's point of view
-#1 Performance characteristics, such as speed, throughput, volume, frequency
-#1 Quality attributes, such as reliability, maintainability, availability, flexibility, portability, usability, efficiency
-#1 Provisions for safety, security, privacy, and continuity of operations in emergencies
+1. The operational environment and its characteristics
+1. Major system components and the interconnections among these components
+1. Interfaces to external systems or procedures
+1. Capabilities/functions of the current system
+1. Charts and accompanying descriptions depicting inputs, outputs, data flow, and manual and automated processes sufficient to understand the current system or situation from the user's point of view
+1. Performance characteristics, such as speed, throughput, volume, frequency
+1. Quality attributes, such as reliability, maintainability, availability, flexibility, portability, usability, efficiency
+1. Provisions for safety, security, privacy, and continuity of operations in emergencies
 
 
 
@@ -50,8 +50,8 @@ This section shall be divided into the following paragraphs.
 ## 4.1		Justification for change.
 This paragraph shall:
 
-	#1 Describe new or modified aspects of user needs, threats, missions, objectives, environ-ments, interfaces, personnel or other factors that require a new or modified system
-#1 Summarize deficiencies or limitations in the current system or situation that make it unable to respond to these factors
+1. Describe new or modified aspects of user needs, threats, missions, objectives, environ-ments, interfaces, personnel or other factors that require a new or modified system
+1. Summarize deficiencies or limitations in the current system or situation that make it unable to respond to these factors
 
 
 
@@ -79,14 +79,14 @@ This paragraph shall describe any operational policies and constraints that appl
 ## 5.3		Description of the new or modified system.
 This paragraph shall provide a description of the new or modified system, identifying differences associated with different states or modes of operation (for example, regular, maintenance, train-ing, degraded, emergency, alternative-site, wartime, peacetime). The distinction between states and modes is arbitrary. A system may be described in terms of states only, modes only, states within modes, modes within states, or any other scheme that is useful. If the system operates without states or modes, this paragraph shall so state, without the need to create artificial distinctions. The description shall include, as applicable:
 
-	#1 The operational environment and its characteristics
-#1 Major system components and the interconnections among these components
-#1 Interfaces to external systems or procedures
-#1 Capabilities/functions of the new or modified system
-#1 Charts and accompanying descriptions depicting inputs, outputs, data flow, and manual and automated processes sufficient to understand the new or modified system or situation from the user's point of view
-#1 Performance characteristics, such as speed, throughput, volume, frequency
-#1 Quality attributes, such as reliability, maintainability, availability, flexibility, portability, usability, efficiency
-#1 Provisions for safety, security, privacy, and continuity of operations in emergencies
+1. The operational environment and its characteristics
+1. Major system components and the interconnections among these components
+1. Interfaces to external systems or procedures
+1. Capabilities/functions of the new or modified system
+1. Charts and accompanying descriptions depicting inputs, outputs, data flow, and manual and automated processes sufficient to understand the new or modified system or situation from the user's point of view
+1. Performance characteristics, such as speed, throughput, volume, frequency
+1. Quality attributes, such as reliability, maintainability, availability, flexibility, portability, usability, efficiency
+1. Provisions for safety, security, privacy, and continuity of operations in emergencies
 
 
 

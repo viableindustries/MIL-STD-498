@@ -1,10 +1,4 @@
-
-
-
-
-IRS
-
-
+# Interface Requirements Specification (IRS)
 
 # 1.	Scope.
 This section shall be divided into the following paragraphs.
@@ -71,7 +65,7 @@ of the interfacing entities to achieve the interface. If the interface character
 1. Priority, timing, frequency, volume, sequencing, and other constraints, such as whether the assembly may be updated and whether business rules apply
 1. Security and privacy constraints
 1. Sources (setting/sending entities) and recipients (using/receiving entities)
- 
+
 
 1. Required characteristics of communication methods that the interfacing entity(ies) must use for the interface, such as:
 
