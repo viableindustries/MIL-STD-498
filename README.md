@@ -10,7 +10,7 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 
 * [Software Development Plan (SDP)](SDP.md)
 * [Software Installation Plan (SIP)](SIP.md)
-* [Software Transition Plan (STrP)](STP.md)
+* [Software Transition Plan (STrP)](STrP.md)
 
 ## Concepts/Requirements
 
