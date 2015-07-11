@@ -28,9 +28,9 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 
 ## Qualification Test Products
 
-* []()
-* []()
-* []()
+* [Software Test Plan (STP)](STP.md)
+* [Software Test Description (STD)](STD.md)
+* [Software Test Report (STR)](STR.md)
 
 ## User/Operator Manuals
 
@@ -47,8 +47,4 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 ## Software
 
 * []()
-* []()
-
-## Plans
-
 * []()

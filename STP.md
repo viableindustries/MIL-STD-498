@@ -1,4 +1,4 @@
-# Software Transition Plan (STrP)
+# Software Test Plan (STP)
 
 # 1.	Scope.
 This section shall be divided into the following paragraphs.
