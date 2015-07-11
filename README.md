@@ -21,10 +21,10 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 
 ## Design
 
-* []()
-* []()
-* []()
-* []()
+* [System/Subsystem Design Description (SSDD)](SSDD.md)
+* [Software Design Description (SDD)](SDD.md)
+* [Database Design Description (DBDD)](DBDD.md)
+* [Interface Design Description (IDD)](IDD.md)
 
 ## Qualification Test Products
 
