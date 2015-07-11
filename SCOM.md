@@ -33,24 +33,24 @@ This paragraph shall identify all software files, including databases and data f
 ## 3.3		Software environment.
 This paragraph shall identify the hardware, software, manual operations, and other resources needed to install and operate the software. Included, as applicable, shall be identification of:
 
-	#1 Computer equipment that must be present, including amount of memory needed, amount of auxiliary storage needed, and peripheral equipment such as terminals, printers, and other input/output devices
-#1 Communications equipment that must be present
-#1 Other software that must be present, such as networking software, operating systems, databases, data files, utilities, permanent files that are referenced, created, or updated by the software; and databases/data files necessary to resume operation in the event of emergencies
-#1 Forms, procedures, or other manual operations that must be present
-#1 Other facilities, equipment, or resources that must be present
+1. Computer equipment that must be present, including amount of memory needed, amount of auxiliary storage needed, and peripheral equipment such as terminals, printers, and other input/output devices
+1. Communications equipment that must be present
+1. Other software that must be present, such as networking software, operating systems, databases, data files, utilities, permanent files that are referenced, created, or updated by the software; and databases/data files necessary to resume operation in the event of emergencies
+1. Forms, procedures, or other manual operations that must be present
+1. Other facilities, equipment, or resources that must be present
 
 
 
 ## 3.4		Software organization and overview of operation.
 This paragraph shall provide a brief description of the organization and operation of the software from the operator's point of view. The description shall include, as applicable:
 
-	#1 Logical components of the software, from the operator's point of view, and an overview of the purpose/operation of each component
-#1 Types of inputs/access that can be made to the software and the software's response to each type
-#1 The reports and other outputs that are produced by the software, including security and privacy considerations for each
-#1 Typical run times and factors that affect it
-#1 Organization of software operation into runs. This description shall use a chart, if applicable, showing how the different operations are interrelated. If sets of runs are grouped by time periods or cycles, each set of integrated operations required on a daily, weekly, etc., basis shall be presented. If runs may be grouped logically by organizational level, the groups of runs that can be performed by each organizational level such as headquarters processing, field activity processing, etc., shall be presented.
-#1 Any system restrictions, waivers of operational standards, information oriented toward specific support areas (for example, library, small computer and teleprocessing support, interfaces with other systems), or other special aspects of processing
-#1 General description of the communications functions and processes of the software, including, as applicable, a diagram of the communications network used in the system
+1. Logical components of the software, from the operator's point of view, and an overview of the purpose/operation of each component
+1. Types of inputs/access that can be made to the software and the software's response to each type
+1. The reports and other outputs that are produced by the software, including security and privacy considerations for each
+1. Typical run times and factors that affect it
+1. Organization of software operation into runs. This description shall use a chart, if applicable, showing how the different operations are interrelated. If sets of runs are grouped by time periods or cycles, each set of integrated operations required on a daily, weekly, etc., basis shall be presented. If runs may be grouped logically by organizational level, the groups of runs that can be performed by each organizational level such as headquarters processing, field activity processing, etc., shall be presented.
+1. Any system restrictions, waivers of operational standards, information oriented toward specific support areas (for example, library, small computer and teleprocessing support, interfaces with other systems), or other special aspects of processing
+1. General description of the communications functions and processes of the software, including, as applicable, a diagram of the communications network used in the system
 
 
 
@@ -93,14 +93,14 @@ This paragraph shall provide a listing of the run stream of job control statemen
 #### 5.5.x.2	Run management information.
 This paragraph shall provide the information needed to manage the run including, as applicable:
 
-	#1 Peripheral and resource requirements
-#1 Security and privacy considerations
-#1 Method of initiation, such as on request, after another run, or at a predetermined time
-#1 Estimated run time
-#1 Required turnaround time
-#1 Messages and responses
-#1 Procedures for taking check points
-#1 Waivers from operational standards
+1. Peripheral and resource requirements
+1. Security and privacy considerations
+1. Method of initiation, such as on request, after another run, or at a predetermined time
+1. Estimated run time
+1. Required turnaround time
+1. Messages and responses
+1. Procedures for taking check points
+1. Waivers from operational standards
 
 
 

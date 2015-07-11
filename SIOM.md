@@ -33,31 +33,31 @@ This paragraph shall identify the software files, if any, including databases an
 ## 3.3		Software environment.
 This paragraph shall identify the hardware, software, manual operations, and other resources needed to access and use the software. This paragraph shall be based on the assumption that the software is installed in a computer center or other centralized or networked environment and shall focus on the resources that a user must have to access and use the software in that environment. Included, as applicable, shall be identification of:
 
-	#1 Computer equipment that must be present, such as terminals, printers, or other input/output devices
-	#1 Communications equipment that must be present
-	#1 Other software that must be present, such as networking software
-	#1 Forms, procedures, or other manual operations that must be present
-	#1 Other facilities, equipment, or resources that must be present
+1. Computer equipment that must be present, such as terminals, printers, or other input/output devices
+1. Communications equipment that must be present
+1. Other software that must be present, such as networking software
+1. Forms, procedures, or other manual operations that must be present
+1. Other facilities, equipment, or resources that must be present
 
 
 
 ## 3.4	Software organization and overview of operation.
 This paragraph shall provide a brief description of the organization and operation of the software from the user's point of view. The description shall include, as applicable:
 
-	#1 Logical components of the software, from the user's point of view, including databases and data files the user can access, Database Management Systems (DBMSs), and communications paths, and an overview of the purpose/operation of each component
-#1 Performance characteristics that can be expected by the user, such as:
+1. Logical components of the software, from the user's point of view, including databases and data files the user can access, Database Management Systems (DBMSs), and communications paths, and an overview of the purpose/operation of each component
+1. Performance characteristics that can be expected by the user, such as:
  
- 	#1 Types, volumes, rate of inputs accepted
-#1 Types, volume, accuracy, rate of outputs that the software can produce
-#1 Typical response time and factors that affect it 
-#1 Typical processing time and factors that affect it
-#1 Limitations, e.g, restrictions on what data may be queried and from what location
-#1 Error rate that can be expected 
-#1 Reliability that can be expected
+ 1. Types, volumes, rate of inputs accepted
+1. Types, volume, accuracy, rate of outputs that the software can produce
+1. Typical response time and factors that affect it 
+1. Typical processing time and factors that affect it
+1. Limitations, e.g, restrictions on what data may be queried and from what location
+1. Error rate that can be expected 
+1. Reliability that can be expected
  
  
-#1 Relationships of the functions performed by the software with interfacing systems and with the organizations or stations that are sources of input or recipients of output
-#1 Supervisory controls that can be implemented (such as passwords) to manage the software
+1. Relationships of the functions performed by the software with interfacing systems and with the organizations or stations that are sources of input or recipients of output
+1. Supervisory controls that can be implemented (such as passwords) to manage the software
 
 
 
@@ -82,12 +82,12 @@ This paragraph shall be divided into the following subparagraphs.
 ### 4.2.1		Input conditions.
 This paragraph shall describe the conditions to be observed in preparing each type or class of input to the software. The conditions shall include the following, as applicable:
 
-	#1 Reason for input, such as normal status report, need to update data
-#1 Frequency of input, such as monthly, on demand 
-#1 Origin of input, such as the organization or station authorized to generate the input
-#1 Medium of input, such as magnetic tape
-#1 Related inputs that are required to be entered at the same time as this input
-#1 Other applicable information, such as priority; security and privacy considerations
+1. Reason for input, such as normal status report, need to update data
+1. Frequency of input, such as monthly, on demand 
+1. Origin of input, such as the organization or station authorized to generate the input
+1. Medium of input, such as magnetic tape
+1. Related inputs that are required to be entered at the same time as this input
+1. Other applicable information, such as priority; security and privacy considerations
 
 
 
@@ -97,12 +97,12 @@ This paragraph shall illustrate the layout formats to be used in the preparation
 ### 4.2.3		Composition rules.
 This paragraph shall describe any rules and conventions that must be observed to prepare inputs. The rules of syntax, usage of punctuation, etc., shall be explained. The rules shall include the following, as applicable:
 
-	#1 Input transaction length, such as 100 characters maximum
-#1 Format conventions, such as all input items must be left-justified
-#1 Labeling, such as usage of identifiers to denote major data sets to the software
-#1 Sequencing, such as order and placement of items in the input
-#1 Punctuation, such as spacing and use of symbols (virgule, asterisk, character combina-tions, etc.) to denote start and end of input, of data groups, and of fields
-#1 Restrictions, such as rules forbidding use of particular characters or parameter sets 
+1. Input transaction length, such as 100 characters maximum
+1. Format conventions, such as all input items must be left-justified
+1. Labeling, such as usage of identifiers to denote major data sets to the software
+1. Sequencing, such as order and placement of items in the input
+1. Punctuation, such as spacing and use of symbols (virgule, asterisk, character combina-tions, etc.) to denote start and end of input, of data groups, and of fields
+1. Restrictions, such as rules forbidding use of particular characters or parameter sets 
 
 
 
@@ -112,11 +112,11 @@ This paragraph shall explain the legal character combinations or codes that must
 ### 4.2.5		Sample inputs. 
 This paragraph shall provide examples that illustrate and explain each type or class of input acceptable by the software. Included shall be information on the following types of inputs, as applicable: 
 
-	#1 Headers denoting the start of input 
-#1 Text or body of the input 
-#1 Trailers denoting the end of input 
-#1 Portions of the input that may be omitted 
-#1 Portions of the input that may be repeated 
+1. Headers denoting the start of input 
+1. Text or body of the input 
+1. Trailers denoting the end of input 
+1. Portions of the input that may be omitted 
+1. Portions of the input that may be repeated 
 
 
 
@@ -126,32 +126,32 @@ This paragraph shall be divided into the following subparagraphs.
 ### 4.3.1		General description.
 This paragraph shall provide the following information, as applicable, for each type or class of output: 
 
-	#1 Reasons why the output is generated
-#1 Frequency of the output, such as monthly, on demand 
-#1 Any modifications or variations of the basic output that are available
-#1 Media, such as printout, display screen, tape
-#1 Location where the output will appear, such as in the computer area or remotely
-#1 Any additional characteristics, such as priority, security and privacy considerations, associated outputs that complement the information in this output
+1. Reasons why the output is generated
+1. Frequency of the output, such as monthly, on demand 
+1. Any modifications or variations of the basic output that are available
+1. Media, such as printout, display screen, tape
+1. Location where the output will appear, such as in the computer area or remotely
+1. Any additional characteristics, such as priority, security and privacy considerations, associated outputs that complement the information in this output
 
 
 
 ### 4.3.2		Output formats.
 This paragraph shall illustrate and explain the layout of each type or class of output from the software. The following aspects shall be explained, as applicable:
 
-	#1 Security and privacy markings
-#1 Data that may appear in headers
-#1 Information that may appear in the body or text of the output, including column headings and subsets or sections in the output format
-#1 Data that may appear in trailers 
-#1 Additional characteristics, such as the meaning of special symbols
+1. Security and privacy markings
+1. Data that may appear in headers
+1. Information that may appear in the body or text of the output, including column headings and subsets or sections in the output format
+1. Data that may appear in trailers 
+1. Additional characteristics, such as the meaning of special symbols
 
 
 
 ### 4.3.3		Sample outputs.
 This paragraph shall provide illustrations of each type or class of output from the software. A description of each sample shall be provided, including, as applicable:
 
-	#1 Meaning and use of each column, entry, etc.
-#1 Source, such as extracted from database, calculated
-#1 Characteristics, such as when omitted, range of values, unit of measure
+1. Meaning and use of each column, entry, etc.
+1. Source, such as extracted from database, calculated
+1. Characteristics, such as when omitted, range of values, unit of measure
 
 
 
@@ -173,13 +173,13 @@ This section shall be prepared for software with a query capability. It shall be
 ## 5.1		Database/data file format.
 This paragraph shall provide a user's view of the format and content of each database and data file that can be queried. Figure 1 provides an example. Information such as the following shall be provided for each data element, as applicable:
 
-	#1 Data element name
-#1 Synonymous names
-#1 Definition
-#1 Format
-#1 Range and enumeration of values
-#1 Unit of measurement
-#1 Data item names, abbreviations, and codes
+1. Data element name
+1. Synonymous names
+1. Definition
+1. Format
+1. Range and enumeration of values
+1. Unit of measurement
+1. Data item names, abbreviations, and codes
 
 
 

@@ -42,11 +42,11 @@ This paragraph shall list by identifying numbers, titles, abbreviations, dates, 
 ## 3.6		Installation instructions. 
 This paragraph shall provide or reference the following information, as applicable:
 
-#1 Instructions for installing the software version
-#1 Identification of other changes that have to be installed for this version to be used, including site-unique adaptation data not included in the software version
-#1 Security, privacy, or safety precautions relevant to the installation
-#1 Procedures for determining whether the version has been installed properly
-#1 A point of contact to be consulted if there are problems or questions with the installation
+1. Instructions for installing the software version
+1. Identification of other changes that have to be installed for this version to be used, including site-unique adaptation data not included in the software version
+1. Security, privacy, or safety precautions relevant to the installation
+1. Procedures for determining whether the version has been installed properly
+1. A point of contact to be consulted if there are problems or questions with the installation
 
 
 

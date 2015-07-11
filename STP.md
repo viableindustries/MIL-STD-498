@@ -40,9 +40,9 @@ This paragraph shall identify the proprietary nature, acquirer's rights, and lic
 ### 3.x.5		Installation, testing, and control.
 This paragraph shall identify the developer's plans for performing each of the following, possibly in conjunction with personnel at the test site(s):
 
-#1 Acquiring or developing each element of the software test environment
-#1 Installing and testing each item of the software test environment prior to its use
-#1 Controlling and maintaining each item of the software test environment
+1. Acquiring or developing each element of the software test environment
+1. Installing and testing each item of the software test environment prior to its use
+1. Controlling and maintaining each item of the software test environment
 
 
 
@@ -88,30 +88,30 @@ This paragraph shall identify a CSCI, subsystem, system, or other entity by name
 #### 4.2.x.y	(Project-unique identifier of a test).
 This paragraph shall identify a test by project unique identifier and shall provide the information specified below for the test. Reference may be made as needed to the general information in 4.1.
 
-#1 Test objective
-#1 Test level
-#1 Test type or class
-#1 Qualification method(s) as specified in the requirements specification
-#1 Identifier of the CSCI requirements and, if applicable, software system requirements addressed by this test. (Alternatively, this information may be provided in Section 6.)
-#1 Special requirements (for example, 48 hours of continuous facility time, weapon simulation, extent of test, use of a special input or database)
-#1 Type of data to be recorded
-#1 Type of data recording/reduction/analysis to be employed
-#1 Assumptions and constraints, such as anticipated limitations on the test due to system or test conditions--timing, interfaces, equipment, personnel, database, etc.
-#1 Safety, security, and privacy considerations associated with the test
+1. Test objective
+1. Test level
+1. Test type or class
+1. Qualification method(s) as specified in the requirements specification
+1. Identifier of the CSCI requirements and, if applicable, software system requirements addressed by this test. (Alternatively, this information may be provided in Section 6.)
+1. Special requirements (for example, 48 hours of continuous facility time, weapon simulation, extent of test, use of a special input or database)
+1. Type of data to be recorded
+1. Type of data recording/reduction/analysis to be employed
+1. Assumptions and constraints, such as anticipated limitations on the test due to system or test conditions--timing, interfaces, equipment, personnel, database, etc.
+1. Safety, security, and privacy considerations associated with the test
 
 
 
 # 5.	Test schedules.
 This section shall contain or reference the schedules for conducting the tests identified in this plan. It shall include:
 
-#1 A listing or chart depicting the sites at which the testing will be scheduled and the time frames during which the testing will be conducted
-#1 A schedule for each test site depicting the activities and events listed below, as applicable, in chronological order with supporting narrative as necessary:
+1. A listing or chart depicting the sites at which the testing will be scheduled and the time frames during which the testing will be conducted
+1. A schedule for each test site depicting the activities and events listed below, as applicable, in chronological order with supporting narrative as necessary:
 
-#1 On site test period and periods assigned to major portions of the testing
-#1 Pretest on site period needed for setting up the software test environment and other equipment, system debugging, orientation, and familiarization
-#1 Collection of database/data file values, input values, and other operational data needed for the testing
-#1 Conducting the tests, including planned retesting
-#1 Preparation, review, and approval of the Software Test Report (STR)
+1. On site test period and periods assigned to major portions of the testing
+1. Pretest on site period needed for setting up the software test environment and other equipment, system debugging, orientation, and familiarization
+1. Collection of database/data file values, input values, and other operational data needed for the testing
+1. Conducting the tests, including planned retesting
+1. Preparation, review, and approval of the Software Test Report (STR)
 
 
 
@@ -120,8 +120,8 @@ This section shall contain or reference the schedules for conducting the tests i
 # 6.	Requirements traceability.
 This paragraph shall contain:
 
-#1 Traceability from each test identified in this plan to the CSCI requirements and, if applicable, software system requirements it addresses. (Alternatively, this traceability may be provided in 4.2.x.y and referenced from this paragraph.)
-#1 Traceability from each CSCI requirement and, if applicable, each software system requirement covered by this test plan to the test(s) that address it. The traceability shall cover the CSCI requirements in all applicable Software Requirements Specifications (SRSs) and associated Interface Requirements Specifications (IRSs), and, for software systems, the system requirements in all applicable System/ Subsystem Specifications (SSSs) and associated system-level IRSs.
+1. Traceability from each test identified in this plan to the CSCI requirements and, if applicable, software system requirements it addresses. (Alternatively, this traceability may be provided in 4.2.x.y and referenced from this paragraph.)
+1. Traceability from each CSCI requirement and, if applicable, each software system requirement covered by this test plan to the test(s) that address it. The traceability shall cover the CSCI requirements in all applicable Software Requirements Specifications (SRSs) and associated Interface Requirements Specifications (IRSs), and, for software systems, the system requirements in all applicable System/ Subsystem Specifications (SSSs) and associated system-level IRSs.
 
 
 

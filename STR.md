@@ -27,13 +27,13 @@ This section shall be divided into the following paragraphs to provide an overvi
 ## 3.1		Overall assessment of the software tested. 
 This paragraph shall:
 
-#1 Provide an overall assessment of the software as demonstrated by the test results in this report
-#1 Identify any remaining deficiencies, limitations, or constraints that were detected by the testing performed. Problem/change reports may be used to provide deficiency information.
-#1 For each remaining deficiency, limitation, or constraint, describe:
+1. Provide an overall assessment of the software as demonstrated by the test results in this report
+1. Identify any remaining deficiencies, limitations, or constraints that were detected by the testing performed. Problem/change reports may be used to provide deficiency information.
+1. For each remaining deficiency, limitation, or constraint, describe:
 
-#1 Its impact on software and system performance, including identification of requirements not met
-#1 The impact on software and system design to correct it
-#1 A recommended solution/approach for correcting it
+1. Its impact on software and system performance, including identification of requirements not met
+1. The impact on software and system design to correct it
+1. A recommended solution/approach for correcting it
 
 
 
@@ -60,11 +60,11 @@ This paragraph shall be divided into subparagraphs that identify each test case 
 #### 4.x.2.y	(Project-unique identifier of a test case).
 This paragraph shall identify by project-unique identifier a test case in which one or more problems occurred, and shall provide:
 
-#1 A brief description of the problem(s) that occurred
-#1 Identification of the test procedure step(s) in which they occurred
-#1 Reference(s) to the associated problem/change report(s) and backup data, as applicable
-#1 The number of times the procedure or step was repeated in attempting to correct the problem(s) and the outcome of each attempt 
-#1 Back up points or test steps where tests were resumed for retesting
+1. A brief description of the problem(s) that occurred
+1. Identification of the test procedure step(s) in which they occurred
+1. Reference(s) to the associated problem/change report(s) and backup data, as applicable
+1. The number of times the procedure or step was repeated in attempting to correct the problem(s) and the outcome of each attempt 
+1. Back up points or test steps where tests were resumed for retesting
 
 
 
@@ -74,18 +74,18 @@ This paragraph shall be divided into subparagraphs that identify each test case 
 #### 4.x.3.y	(Project-unique identifier of a test case). 
 This paragraph shall identify by project-unique identifier a test case in which one or more deviations occurred, and shall provide:
 
-#1 A description of the deviation(s) (for example, test case run in which the deviation occurred and nature of the deviation, such as substitution of required equipment, procedural steps not followed, schedule deviations). (Red-lined test procedures may be used to show the deviations)
-#1 The rationale for the deviation(s)
-#1 An assessment of the deviations' impact on the validity of the test case
+1. A description of the deviation(s) (for example, test case run in which the deviation occurred and nature of the deviation, such as substitution of required equipment, procedural steps not followed, schedule deviations). (Red-lined test procedures may be used to show the deviations)
+1. The rationale for the deviation(s)
+1. An assessment of the deviations' impact on the validity of the test case
 
 
 
 # 5.	Test log.
 This section shall present, possibly in a figure or appendix, a chronological record of the test events covered by this report. This test log shall include: 
 
-#1 The date(s), time(s), and location(s) of the tests performed
-#1 The hardware and software configurations used for each test including, as applicable, part/model/serial number, manufacturer, revision level, and calibration date of all hardware, and version number and name for the software components used
-#1 The date and time of each test related activity, the identity of the individual(s) who performed the activity, and the identities of witnesses, as applicable
+1. The date(s), time(s), and location(s) of the tests performed
+1. The hardware and software configurations used for each test including, as applicable, part/model/serial number, manufacturer, revision level, and calibration date of all hardware, and version number and name for the software components used
+1. The date and time of each test related activity, the identity of the individual(s) who performed the activity, and the identities of witnesses, as applicable
 
 
 

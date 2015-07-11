@@ -22,12 +22,12 @@ This section shall list the number, title, revision, and date of all documents r
 # 3.	Overview of required work.
 This section shall be divided into paragraphs as needed to establish the context for the planning described in later sections. It shall include, as applicable, an overview of:
 
-	#1 Requirements and constraints on the system and software to be developed
-#1 Requirements and constraints on project documentation
-#1 Position of the project in the system life cycle
-#1 The selected program/acquisition strategy or any requirements or constraints on it
-#1 Requirements and constraints on project schedules and resources
-#1 Other requirements and constraints, such as on project security, privacy, methods, standards, interdependencies in hardware and software development, etc.
+1. Requirements and constraints on the system and software to be developed
+1. Requirements and constraints on project documentation
+1. Position of the project in the system life cycle
+1. The selected program/acquisition strategy or any requirements or constraints on it
+1. Requirements and constraints on project schedules and resources
+1. Other requirements and constraints, such as on project security, privacy, methods, standards, interdependencies in hardware and software development, etc.
 
 
 
@@ -46,12 +46,12 @@ This paragraph shall describe or reference the software development methods to b
 ### 4.2.2		Standards for software products.
 This paragraph shall describe or reference the standards to be followed for representing requirements, design, code, test cases, test procedures, and test results. The standards shall cover all contractual clauses concerning this topic. Reference may be made to other paragraphs in this plan if the standards are better described in context with the activities to which they will be applied. Standards for code shall be provided for each programming language to be used. They shall include at a minimum:
 
-	#1 Standards for format (such as indentation, spacing, capitalization, and order of information)
-#1 Standards for header comments (requiring, for example, name/identifier of the code; version identification; modification history; purpose; requirements and design decisions implemented; notes on the processing (such as algorithms used, assumptions, constraints, limitations, and side effects); and notes on the data (inputs, outputs, variables, data structures, etc.)
-#1 Standards for other comments (such as required number and content expectations)
-#1 Naming conventions for variables, parameters, packages, procedures, files, etc.
-#1 Restrictions, if any, on the use of programming language constructs or features
-#1 Restrictions, if any, on the complexity of code aggregates
+1. Standards for format (such as indentation, spacing, capitalization, and order of information)
+1. Standards for header comments (requiring, for example, name/identifier of the code; version identification; modification history; purpose; requirements and design decisions implemented; notes on the processing (such as algorithms used, assumptions, constraints, limitations, and side effects); and notes on the data (inputs, outputs, variables, data structures, etc.)
+1. Standards for other comments (such as required number and content expectations)
+1. Naming conventions for variables, parameters, packages, procedures, files, etc.
+1. Restrictions, if any, on the use of programming language constructs or features
+1. Restrictions, if any, on the complexity of code aggregates
 
 
 
@@ -327,8 +327,8 @@ This paragraph shall be divided into the following subparagraphs to describe the
 # 6.	Schedules and activity network.
 This section shall present:
 
-	#1 Schedule(s) identifying the activities in each build and showing initiation of each activity, availability of draft and final deliverables and other milestones, and completion of each activity
-#1 An activity network, depicting sequential relationships and dependencies among activities and identifying those activities that impose the greatest time restrictions on the project
+1. Schedule(s) identifying the activities in each build and showing initiation of each activity, availability of draft and final deliverables and other milestones, and completion of each activity
+1. An activity network, depicting sequential relationships and dependencies among activities and identifying those activities that impose the greatest time restrictions on the project
 
 
 
@@ -341,16 +341,16 @@ This paragraph shall describe the organizational structure to be used on the pro
 ## 7.2		Project resources.
 This paragraph shall describe the resources to be applied to the project. It shall include, as applicable:
 
-	#1 Personnel resources, including:
+1. Personnel resources, including:
 
- 	#1 The estimated staff-loading for the project (number of personnel over time)
-#1 The breakdown of the staff-loading numbers by responsibility (for example, management, software engineering, software testing, software configuration manage-ment, software product evaluation, software quality assurance)
-#1 A breakdown of the skill levels, geographic locations, and security clearances of personnel performing each responsibility
+ 1. The estimated staff-loading for the project (number of personnel over time)
+1. The breakdown of the staff-loading numbers by responsibility (for example, management, software engineering, software testing, software configuration manage-ment, software product evaluation, software quality assurance)
+1. A breakdown of the skill levels, geographic locations, and security clearances of personnel performing each responsibility
 
 
-#1 Overview of developer facilities to be used, including geographic locations in which the work will be performed, facilities to be used, and secure areas and other features of the facilities as applicable to the contracted effort.
-#1 Acquirer-furnished equipment, software, services, documentation, data, and facilities required for the contracted effort. A schedule detailing when these items will be needed shall also be included.
-#1 Other required resources, including a plan for obtaining the resources, dates needed, and availability of each resource item.
+1. Overview of developer facilities to be used, including geographic locations in which the work will be performed, facilities to be used, and secure areas and other features of the facilities as applicable to the contracted effort.
+1. Acquirer-furnished equipment, software, services, documentation, data, and facilities required for the contracted effort. A schedule detailing when these items will be needed shall also be included.
+1. Other required resources, including a plan for obtaining the resources, dates needed, and availability of each resource item.
 
 
 

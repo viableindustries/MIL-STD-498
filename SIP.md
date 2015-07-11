@@ -36,15 +36,15 @@ This paragraph shall describe the developer's plans for training personnel who w
 ## 3.5		Tasks.
 This paragraph shall list and describe in general terms each task involved in the software installation. Each task description shall identify the organization that will accomplish the task, usually either the user, computer operations, or the developer. The task list shall include such items as:
 
-	#1 Providing overall planning, coordination, and preparation for installation
-#1 Providing personnel for the installation team
-#1 Arranging lodging, transportation, and office facilities for the installation team
-#1 Ensuring that all manuals applicable to the installation are available when needed
-#1 Ensuring that all other prerequisites have been fulfilled prior to the installation
-#1 Planning and conducting training activities
-#1 Providing students for the training
-#1 Providing computer support and technical assistance for the installation
-#1 Providing for conversion from the current system
+1. Providing overall planning, coordination, and preparation for installation
+1. Providing personnel for the installation team
+1. Arranging lodging, transportation, and office facilities for the installation team
+1. Ensuring that all manuals applicable to the installation are available when needed
+1. Ensuring that all other prerequisites have been fulfilled prior to the installation
+1. Planning and conducting training activities
+1. Providing students for the training
+1. Providing computer support and technical assistance for the installation
+1. Providing for conversion from the current system
 
 
 
@@ -69,9 +69,9 @@ This paragraph shall provide an inventory of the software needed to support the 
 ### 4.x.3		Facilities.
 This paragraph shall detail the physical facilities and accommodations needed during the installation period. This description shall include the following, as applicable:
 
-	#1 Classroom, work space, and training aids needed, specifying hours per day, number of days, and shifts
-#1 Hardware that must be operational and available
-#1 Transportation and lodging for the installation team
+1. Classroom, work space, and training aids needed, specifying hours per day, number of days, and shifts
+1. Hardware that must be operational and available
+1. Transportation and lodging for the installation team
 
 
 
@@ -81,11 +81,11 @@ This paragraph shall describe the composition of the installation team. Each tea
 ### 4.x.5		Installation procedures.
 This paragraph shall provide step-by-step procedures for accomplishing the installation. References may be made to other documents, such as operator manuals. Safety precautions, marked by WARNING or CAUTION, shall be included where applicable. The procedures shall include the following, as applicable:
 
-	#1 Installing the software
-#1 Checking out the software once installed
-#1 Initializing databases and other software with site-specific data
-#1 Conversion from the current system, possibly involving running in parallel
-#1 Dry run of the procedures in operator and user manuals
+1. Installing the software
+1. Checking out the software once installed
+1. Initializing databases and other software with site-specific data
+1. Conversion from the current system, possibly involving running in parallel
+1. Dry run of the procedures in operator and user manuals
 
 
 
@@ -104,13 +104,13 @@ This paragraph shall present a schedule of tasks to be accomplished by the user 
 ### 5.x.2		Installation procedures.
 This paragraph shall provide step-by-step procedures for accomplishing the installation. Reference may be made to other documents, such as user manuals. Safety precautions, marked by WARNING or CAUTION, shall be included where applicable. The procedures shall include the following, as applicable:
 
-	#1 Performing the tasks under 4.x.5 if not performed by operations staff
-#1 Initializing user-specific data
-#1 Setting up queries and other user inputs
-#1 Performing sample processing
-#1 Generating sample reports
-#1 Conversion from the current system, possibly involving running in parallel
-#1 Dry run of procedures in user manuals
+1. Performing the tasks under 4.x.5 if not performed by operations staff
+1. Initializing user-specific data
+1. Setting up queries and other user inputs
+1. Performing sample processing
+1. Generating sample reports
+1. Conversion from the current system, possibly involving running in parallel
+1. Dry run of procedures in user manuals
 
 
 

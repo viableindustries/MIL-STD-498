@@ -51,11 +51,11 @@ This paragraph shall describe, or reference an appendix that describes, the comp
 ## 5.3		Modification procedures.
 This paragraph shall describe procedures that must be followed to modify the CSCI. It shall include or reference information on the following, as applicable:
 
-#1 Support facilities, equipment, and software, and procedures for their use
-#1 Databases/data files used by the CSCI and procedures for using and modifying them
-#1 Design, coding, and other conventions to be followed
-#1 Compilation/build procedures if different from those above
-#1 Integration and testing procedures to be followed
+1. Support facilities, equipment, and software, and procedures for their use
+1. Databases/data files used by the CSCI and procedures for using and modifying them
+1. Design, coding, and other conventions to be followed
+1. Compilation/build procedures if different from those above
+1. Integration and testing procedures to be followed
 
 
 
@@ -63,21 +63,21 @@ This paragraph shall describe procedures that must be followed to modify the CSC
 This paragraph shall describe the "as built" CSCI's measured utilization of computer hardware resources (such as processor capacity, memory capacity, input/output device capacity, auxiliary storage capacity, and communications/ network equipment capacity). It shall cover all computer hardware resources 
 included in utilization requirements for the CSCI, in system-level resource allocations affecting the CSCI, or in the software development plan. If all utilization data for a given computer hardware resource is presented in a single location, such as in one SPS, this paragraph may reference that source. Included for each computer hardware resource shall be:
 
-#1 The CSCI requirements or system-level resource allocations being satisfied. (Alternatively, the traceability to CSCI requirements may be provided in 6.c.)
-#1 The assumptions and conditions on which the utilization data are based (for example, typical usage, worst-case usage, assumption of certain events)
-#1 Any special considerations affecting the utilization (such as use of virtual memory, overlays, or multiprocessors or the impacts of operating system overhead, library software, or other implementation overhead) 
-#1 The units of measure used (such as percentage of processor capacity, cycles per second, bytes of memory, kilobytes per second)
-#1 The level(s) at which the estimates or measures have been made (such as software unit, CSCI, or executable program)
+1. The CSCI requirements or system-level resource allocations being satisfied. (Alternatively, the traceability to CSCI requirements may be provided in 6.c.)
+1. The assumptions and conditions on which the utilization data are based (for example, typical usage, worst-case usage, assumption of certain events)
+1. Any special considerations affecting the utilization (such as use of virtual memory, overlays, or multiprocessors or the impacts of operating system overhead, library software, or other implementation overhead) 
+1. The units of measure used (such as percentage of processor capacity, cycles per second, bytes of memory, kilobytes per second)
+1. The level(s) at which the estimates or measures have been made (such as software unit, CSCI, or executable program)
 
 
 
 # 6.	Requirements traceability.
 This section shall provide:
 
-#1 Traceability from each CSCI source file to the software unit(s) that it implements.
-#1 Traceability from each software unit to the source files that implement it.
-#1 Traceability from each computer hardware resource utilization measurement given in 5.4 to the CSCI requirements it addresses. (Alternatively, this traceability may be provided in 5.4.)
-#1 Traceability from each CSCI requirement regarding computer hardware resource utilization to the utilization measurements given in 5.4.
+1. Traceability from each CSCI source file to the software unit(s) that it implements.
+1. Traceability from each software unit to the source files that implement it.
+1. Traceability from each computer hardware resource utilization measurement given in 5.4 to the CSCI requirements it addresses. (Alternatively, this traceability may be provided in 5.4.)
+1. Traceability from each CSCI requirement regarding computer hardware resource utilization to the utilization measurements given in 5.4.
 
 
 

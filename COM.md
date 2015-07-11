@@ -63,9 +63,9 @@ This paragraph shall summarize the diagnostic features of the computer system, i
 ## 4.2	Diagnostic procedures.
 This paragraph shall be divided into subparagraphs as needed to describe the diagnostic proce-dures to be followed for the computer system, including:
 
-#1 Identification of hardware, software, or firmware necessary for executing each procedure
-#1 Step by step instructions for executing each procedure
-#1 Diagnostic messages and the corresponding required action
+1. Identification of hardware, software, or firmware necessary for executing each procedure
+1. Step by step instructions for executing each procedure
+1. Diagnostic messages and the corresponding required action
 
 
 

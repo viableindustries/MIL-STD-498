@@ -33,31 +33,31 @@ This paragraph shall identify all software files, including databases and data f
 ## 3.3		Software environment. 
 This paragraph shall identify the hardware, software, manual operations, and other resources needed for a user to install and run the software. Included, as applicable, shall be identification of:
 
-	#1 Computer equipment that must be present, including amount of memory needed, amount of auxiliary storage needed, and peripheral equipment such as printers and other input/output devices
-#1  Communications equipment that must be present
-#1  Other software that must be present, such as operating systems, databases, data files, utilities, and other supporting systems
-#1  Forms, procedures, or other manual operations that must be present
-#1  Other facilities, equipment, or resources that must be present
+1. Computer equipment that must be present, including amount of memory needed, amount of auxiliary storage needed, and peripheral equipment such as printers and other input/output devices
+1.  Communications equipment that must be present
+1.  Other software that must be present, such as operating systems, databases, data files, utilities, and other supporting systems
+1.  Forms, procedures, or other manual operations that must be present
+1.  Other facilities, equipment, or resources that must be present
 
 
 
 ## 3.4		Software organization and overview of operation.
 This paragraph shall provide a brief description of the organization and operation of the software from the user's point of view. The description shall include, as applicable:
 
-#1 Logical components of the software, from the user's point of view, and an overview of the purpose/operation of each component
-#1 Performance characteristics that can be expected by the user, such as:
+1. Logical components of the software, from the user's point of view, and an overview of the purpose/operation of each component
+1. Performance characteristics that can be expected by the user, such as:
 
-#1 Types, volumes, rate of inputs accepted
-#1 Types, volume, accuracy, rate of outputs that the software can produce
-#1 Typical response time and factors that affect it 
-#1 Typical processing time and factors that affect it
-#1 Limitations, such as number of events that can be tracked
-#1 Error rate that can be expected
-#1 Reliability that can be expected
+1. Types, volumes, rate of inputs accepted
+1. Types, volume, accuracy, rate of outputs that the software can produce
+1. Typical response time and factors that affect it 
+1. Typical processing time and factors that affect it
+1. Limitations, such as number of events that can be tracked
+1. Error rate that can be expected
+1. Reliability that can be expected
 
 
-#1 Relationship of the functions performed by the software with interfacing systems, organizations, or positions
-#1 Supervisory controls that can be implemented (such as passwords) to manage the software
+1. Relationship of the functions performed by the software with interfacing systems, organizations, or positions
+1. Supervisory controls that can be implemented (such as passwords) to manage the software
 
 
 
@@ -79,20 +79,20 @@ This paragraph shall be divided into the following subparagraphs.
 ### 4.1.1		Equipment familiarization. 
 This paragraph shall describe the following as appropriate:
 
-#1 Procedures for turning on power and making adjustments
-#1 Dimensions and capabilities of the visual display screen
-#1 Appearance of the cursor, how to identify an active cursor if more than one cursor can appear, how to position a cursor, and how to use a cursor
-#1 Keyboard layout and role of different types of keys and pointing devices
-#1 Procedures for turning power off if special sequencing of operations is needed
+1. Procedures for turning on power and making adjustments
+1. Dimensions and capabilities of the visual display screen
+1. Appearance of the cursor, how to identify an active cursor if more than one cursor can appear, how to position a cursor, and how to use a cursor
+1. Keyboard layout and role of different types of keys and pointing devices
+1. Procedures for turning power off if special sequencing of operations is needed
 
 
 
 ### 4.1.2		Access control. 
 This paragraph shall present an overview of the access and security features of the software that are visible to the user. The following items shall be included, as applicable:
 
-#1 How and from whom to obtain a password
-#1 How to add, delete, or change passwords under user control
-#1 Security and privacy considerations pertaining to the storage and marking of output reports and other media that the user will generate
+1. How and from whom to obtain a password
+1. How to add, delete, or change passwords under user control
+1. Security and privacy considerations pertaining to the storage and marking of output reports and other media that the user will generate
 
 
 

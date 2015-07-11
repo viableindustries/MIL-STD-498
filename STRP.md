@@ -36,38 +36,38 @@ This paragraph shall describe the facilities needed to support the deliverable s
 ## 3.2		Hardware. 
 This paragraph shall identify and describe the hardware and associated documentation needed to support the deliverable software. This hardware may include computers, peripheral equipment, hardware simulators, stimulators, emulators, diagnostic equipment, and non-computer equipment. The description shall include:
 
-#1 Specific models, versions, and configurations
-#1 Rationale for the selected hardware
-#1 Reference to user/operator manuals or instructions for each item, as applicable
-#1 Identification of each hardware item and document as acquirer-furnished, an item that will be delivered to the support agency, an item the support agency is known to have, an item the support agency must acquire, or other description of status
-#1 If items must be acquired, information about a current source of supply, including whether the item is currently available and whether it is expected to be available at the time of delivery
-#1 Information about manufacturer support, licensing, and data rights, including whether the item is currently supported by the manufacturer, whether it is expected to be supported at the time of delivery, whether licenses will be assigned to the support agency, and the terms of such licenses
-#1 Security and privacy considerations, limitations, or other items of interest
+1. Specific models, versions, and configurations
+1. Rationale for the selected hardware
+1. Reference to user/operator manuals or instructions for each item, as applicable
+1. Identification of each hardware item and document as acquirer-furnished, an item that will be delivered to the support agency, an item the support agency is known to have, an item the support agency must acquire, or other description of status
+1. If items must be acquired, information about a current source of supply, including whether the item is currently available and whether it is expected to be available at the time of delivery
+1. Information about manufacturer support, licensing, and data rights, including whether the item is currently supported by the manufacturer, whether it is expected to be supported at the time of delivery, whether licenses will be assigned to the support agency, and the terms of such licenses
+1. Security and privacy considerations, limitations, or other items of interest
 
 
 
 ## 3.3		Software.
 This paragraph shall identify and describe the software and associated documentation needed to support the deliverable software. This software may include computer-aided software engineering (CASE) tools, data in these tools, compilers, test tools, test data, simulations, emulations, utilities, configuration management tools, databases and data files, and other software. The description shall include:
 
-#1 Specific names, identification numbers, version numbers, release numbers, and configurations, as applicable
-#1 Rationale for the selected software
-#1 Reference to user/operator manuals or instructions for each item, as applicable
-#1 Identification of each software item and document as acquirer-furnished, an item that will be delivered to the support agency, an item the support agency is known to have, an item the support agency must acquire, or other description of status
-#1 If items must be acquired, information about a current source of supply, including whether the item is currently available and whether it is expected to be available at the time of delivery
-#1 Information about vendor support, licensing, and data rights, including whether the item is currently supported by the vendor, whether it is expected to be supported at the time of delivery, whether licenses will be assigned to the support agency, and the terms of such licenses
-#1 Security and privacy considerations, limitations, or other items of interest
+1. Specific names, identification numbers, version numbers, release numbers, and configurations, as applicable
+1. Rationale for the selected software
+1. Reference to user/operator manuals or instructions for each item, as applicable
+1. Identification of each software item and document as acquirer-furnished, an item that will be delivered to the support agency, an item the support agency is known to have, an item the support agency must acquire, or other description of status
+1. If items must be acquired, information about a current source of supply, including whether the item is currently available and whether it is expected to be available at the time of delivery
+1. Information about vendor support, licensing, and data rights, including whether the item is currently supported by the vendor, whether it is expected to be supported at the time of delivery, whether licenses will be assigned to the support agency, and the terms of such licenses
+1. Security and privacy considerations, limitations, or other items of interest
 
 
 
 ## 3.4		Other documentation. 
 This paragraph shall identify any other documentation needed to support the deliverable software. The list will include, for example, plans, reports, studies, specifications, design descriptions, test cases/procedures, test reports, user/operator manuals, and support manuals for the deliverable software. This paragraph shall provide:
 
-#1 Names, identification numbers, version numbers, and release numbers, as applicable
-#1 Rationale for including each document in the list
-#1 Identification of each document as acquirer-furnished, an item that will be delivered to the support agency, an item the support agency is known to have, an item the support agency must acquire, or other description of status
-#1 If a document must be acquired, information about where to acquire it
-#1 Information about licensing and data rights
-#1 Security and privacy considerations, limitations, or other items of interest
+1. Names, identification numbers, version numbers, and release numbers, as applicable
+1. Rationale for including each document in the list
+1. Identification of each document as acquirer-furnished, an item that will be delivered to the support agency, an item the support agency is known to have, an item the support agency must acquire, or other description of status
+1. If a document must be acquired, information about where to acquire it
+1. Information about licensing and data rights
+1. Security and privacy considerations, limitations, or other items of interest
 
 
 
@@ -89,12 +89,12 @@ This section shall be divided into paragraphs as needed to describe any procedur
 # 5.	Training. 
 This section shall be divided into paragraphs as appropriate to describe the developer's plans for training support personnel to support of the deliverable software. This section shall include:
 
-#1 The schedule, duration, and location for the training 
-#1 The delineation between classroom training and "hands on" training
-#1 Provision (either directly or by reference) for:
+1. The schedule, duration, and location for the training 
+1. The delineation between classroom training and "hands on" training
+1. Provision (either directly or by reference) for:
 
-#1 Familiarization with the operational software and target computer(s)
-#1 Familiarization with the support software and host system
+1. Familiarization with the operational software and target computer(s)
+1. Familiarization with the support software and host system
 
 
 
@@ -106,11 +106,11 @@ This section shall describe anticipated areas of change to the deliverable softw
 # 7.	Transition planning.
 This section shall be divided into paragraphs as needed to describe the developer's plans for transitioning the deliverable software to the support agency. This section shall address the following:
 
-#1 All activities to be performed to transition the deliverable software to the support agency. These activities may include planning/coordination meetings; preparation of items to be delivered to the support agency; packaging, shipment, installation, and checkout of the software support environment; packaging, shipment, installation, and checkout of the operational software; and training of support personnel.
-#1 Roles and responsibilities for each activity
-#1 The resources needed to carry out the transition activities and the source from which each resource will be provided
-#1 Schedules and milestones for conducting the transition activities. These schedules and milestones shall be compatible with the contract master schedule. 
-#1 Procedures for installation and checkout of deliverable items in the support environment 
+1. All activities to be performed to transition the deliverable software to the support agency. These activities may include planning/coordination meetings; preparation of items to be delivered to the support agency; packaging, shipment, installation, and checkout of the software support environment; packaging, shipment, installation, and checkout of the operational software; and training of support personnel.
+1. Roles and responsibilities for each activity
+1. The resources needed to carry out the transition activities and the source from which each resource will be provided
+1. Schedules and milestones for conducting the transition activities. These schedules and milestones shall be compatible with the contract master schedule. 
+1. Procedures for installation and checkout of deliverable items in the support environment 
 
 
 

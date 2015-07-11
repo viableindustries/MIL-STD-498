@@ -30,18 +30,18 @@ This paragraph shall state the project-unique identifier of a programmed firmwar
 ### 3.x.1	Description of pre-programmed device.
 This paragraph shall:
 
-	#1 Identify by manufacturer's name and model number the firmware device to be programmed
-#1 Provide a complete physical description of the firmware device, including the following, as applicable:
+1. Identify by manufacturer's name and model number the firmware device to be programmed
+1. Provide a complete physical description of the firmware device, including the following, as applicable:
 
- 	#1 Memory size, type, speed, and configuration (such as 64Kx1, 8Kx8)
-#1 Operating characteristics (such as access time, power requirements,logic levels)
-#1 Pin functional descriptions
-#1 Logical interfaces (such as addressing scheme, chip selection)
-#1 Internal and external identification scheme used
-#1 Timing diagrams
+ 1. Memory size, type, speed, and configuration (such as 64Kx1, 8Kx8)
+1. Operating characteristics (such as access time, power requirements,logic levels)
+1. Pin functional descriptions
+1. Logical interfaces (such as addressing scheme, chip selection)
+1. Internal and external identification scheme used
+1. Timing diagrams
 
 
-#1 Describe the operational and environmental limits to which the firmware device may be subjected and still maintain satisfactory operation
+1. Describe the operational and environmental limits to which the firmware device may be subjected and still maintain satisfactory operation
 
 
 
