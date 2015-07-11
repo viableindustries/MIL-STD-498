@@ -1,10 +1,4 @@
-
-
-
-
-FSM
-
-
+# Firmware Support Manual (FSM)
 
 # 1.	Scope.
 This section shall be divided into the following paragraphs.

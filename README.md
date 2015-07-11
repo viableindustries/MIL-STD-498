@@ -34,17 +34,17 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 
 ## User/Operator Manuals
 
-* [Software User Manual (SUM)]()
-* [Software Center Operator Manual (SCOM)]()
-* [Software Input/Output Manual (SIOM)]()
-* [Computer Operation Manual (COM)]()
+* [Software User Manual (SUM)](SUM.md)
+* [Software Center Operator Manual (SCOM)](SCOM.md)
+* [Software Input/Output Manual (SIOM)](SIOM.md)
+* [Computer Operation Manual (COM)](COM.md)
 
 ## Support Manuals
 
-* []()
-* []()
+* [Computer Programming Manual (CPM)](CPM.md)
+* [Firmware Support Manual (FSM)](FSM.md)
 
 ## Software
 
-* []()
-* []()
+* [Software Product Specification (SPS)](SPS.md)
+* [Software Version Description (SVD)](SVD.md)
