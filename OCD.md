@@ -1,4 +1,4 @@
-OCD
+# Operational Concept Description (OCD)
 
 # 1.	Scope.
 This section shall be divided into the following paragraphs.

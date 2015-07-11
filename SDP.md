@@ -1,22 +1,17 @@
-
-
-
-
-SDP
-
+# Software Development Process (SDP)
 
 
 # 1.	Scope.
 This section shall be divided into the following paragraphs.
 
-## 1.1		Identification. 
+## 1.1		Identification.
 This paragraph shall contain a full identification of the system and the software to which this document applies, including, as applicable, identification number(s), title(s), abbreviation(s), version number(s), and release number(s).
 
 ## 1.2		System overview.
 This paragraph shall briefly state the purpose of the system and the software to which this document applies. It shall describe the general nature of the system and software; summarize the history of system development, operation, and maintenance; identify the project sponsor, acquirer, user, developer, and support agencies; identify current and planned operating sites; and list other relevant documents.
 
-## 1.3		Document overview. 
-This paragraph shall summarize the purpose and contents of this document and shall describe any security or privacy considerations associated with its use. 
+## 1.3		Document overview.
+This paragraph shall summarize the purpose and contents of this document and shall describe any security or privacy considerations associated with its use.
 
 ## 1.4		Relationship to other plans.
 This paragraph shall describe the relationship, if any, of the SDP to other project management plans.
@@ -24,19 +19,19 @@ This paragraph shall describe the relationship, if any, of the SDP to other proj
 # 2.	Referenced documents.
 This section shall list the number, title, revision, and date of all documents referenced in this plan. This section shall also identify the source for all documents not available through normal Government stocking activities.
 
-# 3.	Overview of required work. 
+# 3.	Overview of required work.
 This section shall be divided into paragraphs as needed to establish the context for the planning described in later sections. It shall include, as applicable, an overview of:
 
 	#1 Requirements and constraints on the system and software to be developed
-#1 Requirements and constraints on project documentation 
+#1 Requirements and constraints on project documentation
 #1 Position of the project in the system life cycle
 #1 The selected program/acquisition strategy or any requirements or constraints on it
 #1 Requirements and constraints on project schedules and resources
-#1 Other requirements and constraints, such as on project security, privacy, methods, standards, interdependencies in hardware and software development, etc. 
+#1 Other requirements and constraints, such as on project security, privacy, methods, standards, interdependencies in hardware and software development, etc.
 
 
 
-# 4.	Plans for performing general software development activities. 
+# 4.	Plans for performing general software development activities.
 This section shall be divided into the following paragraphs. Provisions corresponding to non-required activities may be satisfied by the words "Not applicable." If different builds or different software on the project require different planning, these differences shall be noted in the paragraphs. In addition to the content specified below, each paragraph shall identify applicable risks/uncertainties and plans for dealing with them.
 
 ## 4.1		Software development process.
@@ -48,7 +43,7 @@ This paragraph shall be divided into the following subparagraphs.
 ### 4.2.1		Software development methods.
 This paragraph shall describe or reference the software development methods to be used. Included shall be descriptions of the manual and automated tools and procedures to be used in support of these methods. The methods shall cover all contractual clauses concerning this topic. Reference may be made to other paragraphs in this plan if the methods are better described in context with the activities to which they will be applied.
 
-### 4.2.2		Standards for software products. 
+### 4.2.2		Standards for software products.
 This paragraph shall describe or reference the standards to be followed for representing requirements, design, code, test cases, test procedures, and test results. The standards shall cover all contractual clauses concerning this topic. Reference may be made to other paragraphs in this plan if the standards are better described in context with the activities to which they will be applied. Standards for code shall be provided for each programming language to be used. They shall include at a minimum:
 
 	#1 Standards for format (such as indentation, spacing, capitalization, and order of information)
@@ -56,7 +51,7 @@ This paragraph shall describe or reference the standards to be followed for repr
 #1 Standards for other comments (such as required number and content expectations)
 #1 Naming conventions for variables, parameters, packages, procedures, files, etc.
 #1 Restrictions, if any, on the use of programming language constructs or features
-#1 Restrictions, if any, on the complexity of code aggregates 
+#1 Restrictions, if any, on the complexity of code aggregates
 
 
 
@@ -66,10 +61,10 @@ This paragraph shall be divided into the following subparagraphs.
 #### 4.2.3.1	Incorporating reusable software products.
 This paragraph shall describe the approach to be followed for identifying, evaluating, and incorporating reusable software products, including the scope of the search for such products and the criteria to be used for their evaluation. It shall cover all contractual clauses concerning this topic. Candidate or selected reusable software products known at the time this plan is prepared or updated shall be identified and described, together with benefits, drawbacks, and restrictions, as applicable, associated with their use.
 
-#### 4.2.3.2	Developing reusable software products. 
+#### 4.2.3.2	Developing reusable software products.
 This paragraph shall describe the approach to be followed for identifying, evaluating, and reporting opportunities for developing reusable software products. It shall cover all contractual clauses concerning this topic.
 
-### 4.2.4		Handling of critical requirements. 
+### 4.2.4		Handling of critical requirements.
  This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for handling requirements designated critical. The planning in each subparagraph shall cover all contractual clauses concerning the identified topic.
 
 4.2.4.1		Safety assurance
@@ -90,10 +85,10 @@ This paragraph shall describe the approach to be followed for recording rational
 ### 4.2.7		Access for acquirer review.
 This paragraph shall describe the approach to be followed for providing the acquirer or its authorized representative access to developer and subcontractor facilities for review of software products and activities. It shall cover all contractual clauses concerning this topic.
 
-# 5.		Plans for performing detailed software development activities. 
+# 5.		Plans for performing detailed software development activities.
 This section shall be divided into the following paragraphs. Provisions corresponding to non-required activities may be satisfied by the words "Not applicable." If different builds or different software on the project require different planning, these differences shall be noted in the paragraphs. The discussion of each activity shall include the approach (meth-ods/procedures/tools) to be applied to: 1) the analysis or other technical tasks involved, 2) the recording of results, and 3) the preparation of associated deliverables, if applicable. The discussion shall also identify applicable risks/uncertainties and plans for dealing with them. Reference may be made to 4.2.1 if applicable methods are described there.
 
-## 5.1		Project planning and oversight. 
+## 5.1		Project planning and oversight.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for project planning and oversight. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.1.1	Software development planning (covering updates to this plan)
@@ -110,7 +105,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 
 
 
-## 5.2		Establishing a software development environment. 
+## 5.2		Establishing a software development environment.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for establishing, controlling, and maintaining a software development environment. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.2.1	Software engineering environment
@@ -124,7 +119,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 5.2.5	Non-deliverable software
 
 
-## 5.3		System requirements analysis. 
+## 5.3		System requirements analysis.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for participating in system requirements analysis. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.3.1	Analysis of user input
@@ -134,7 +129,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 5.3.3	System requirements
 
 
-## 5.4		System design. 
+## 5.4		System design.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for participating in system design. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.4.1	System-wide design decisions
@@ -145,7 +140,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 ## 5.5		Software requirements analysis.
 This paragraph shall describe the approach to be followed for software requirements analysis. The approach shall cover all contractual clauses concerning this topic.
 
-## 5.6		Software design. 
+## 5.6		Software design.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for software design. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.6.1	CSCI-wide design decisions
@@ -181,7 +176,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 5.8.4	Analyzing and recording unit integration and test results
 
 
-## 5.9		CSCI qualification testing. 
+## 5.9		CSCI qualification testing.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for CSCI qualification testing. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.9.1	Independence in CSCI qualification testing
@@ -229,7 +224,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 5.11.7	Analyzing and recording system qualification test results
 
 
-## 5.12	Preparing for software use. 
+## 5.12	Preparing for software use.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for preparing for software use. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.12.1	Preparing the executable software
@@ -301,7 +296,7 @@ This paragraph shall be divided into the following subparagraphs to describe the
 5.17.2	Corrective action system
 
 
-## 5.18	Joint technical and management reviews. 
+## 5.18	Joint technical and management reviews.
 This paragraph shall be divided into the following subparagraphs to describe the approach to be followed for joint technical and management reviews. The planning in each subparagraph shall cover all contractual clauses regarding the identified topic.
 
 5.18.1	Joint technical reviews, including a proposed set of reviews
@@ -337,33 +332,30 @@ This section shall present:
 
 
 
-# 7.	Project organization and resources. 
+# 7.	Project organization and resources.
 This section shall be divided into the following paragraphs to describe the project organization and resources to be applied in each build.
 
 ## 7.1		Project organization.
-This paragraph shall describe the organizational structure to be used on the project, including the organizations involved, their relationships to one another, and the authority and responsibility of each organization for carrying out required activities. 
+This paragraph shall describe the organizational structure to be used on the project, including the organizations involved, their relationships to one another, and the authority and responsibility of each organization for carrying out required activities.
 
-## 7.2		Project resources. 
+## 7.2		Project resources.
 This paragraph shall describe the resources to be applied to the project. It shall include, as applicable:
 
 	#1 Personnel resources, including:
- 
+
  	#1 The estimated staff-loading for the project (number of personnel over time)
 #1 The breakdown of the staff-loading numbers by responsibility (for example, management, software engineering, software testing, software configuration manage-ment, software product evaluation, software quality assurance)
 #1 A breakdown of the skill levels, geographic locations, and security clearances of personnel performing each responsibility
- 
- 
+
+
 #1 Overview of developer facilities to be used, including geographic locations in which the work will be performed, facilities to be used, and secure areas and other features of the facilities as applicable to the contracted effort.
 #1 Acquirer-furnished equipment, software, services, documentation, data, and facilities required for the contracted effort. A schedule detailing when these items will be needed shall also be included.
 #1 Other required resources, including a plan for obtaining the resources, dates needed, and availability of each resource item.
 
 
 
-# 8.	Notes. 
+# 8.	Notes.
 This section shall contain any general information that aids in understanding this document (e.g., background information, glossary, rationale). This section shall include an alphabetical listing of all acronyms, abbreviations, and their meanings as used in this document and a list of any terms and definitions needed to understand this document.
 
-# A.	Appendixes. 
+# A.	Appendixes.
 Appendixes may be used to provide information published separately for convenience in document maintenance (e.g., charts, classified data). As applicable, each appendix shall be referenced in the main body of the document where the data would normally have been provided. Appendixes may be bound as separate documents for ease in handling. Appendixes shall be lettered alphabetically (A, B, etc.).
-
-
-
