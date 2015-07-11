@@ -34,10 +34,10 @@ HTML versions](https://github.com/kkovacs/MIL-STD-498-templates-html/).
 
 ## User/Operator Manuals
 
-* []()
-* []()
-* []()
-* []()
+* [Software User Manual (SUM)]()
+* [Software Center Operator Manual (SCOM)]()
+* [Software Input/Output Manual (SIOM)]()
+* [Computer Operation Manual (COM)]()
 
 ## Support Manuals
 

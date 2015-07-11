@@ -1,12 +1,6 @@
+# Software Center Operator Manual (SCOM)
 
-
-
-
-SCOM
-
-
-
-# 1.	Scope. 
+# 1.	Scope.
 This section shall be divided into the following paragraphs.
 
 ## 1.1		Identification.
@@ -15,7 +9,7 @@ This paragraph shall contain a full identification of the system and software to
 ## 1.2		System overview.
 This paragraph shall briefly state the purpose of the system and the software to which this document applies. It shall describe the general nature of the system and software; summarize the history of system development, operation, and maintenance; identify the project sponsor, acquirer, user, developer, and support agencies; identify current and planned operating sites; and list other relevant documents.
 
-## 1.3		Document overview. 
+## 1.3		Document overview.
 This paragraph shall summarize the purpose and contents of this manual and shall describe any security or privacy considerations associated with its use.
 
 # 2.	Referenced documents.
@@ -24,7 +18,7 @@ This section shall list the number, title, revision, and date of all documents r
 # 3.	Software summary.
 This section shall be divided into the following paragraphs.
 
-## 3.1 Software application. 
+## 3.1 Software application.
 This paragraph shall provide a brief description of the intended uses of the software. Capabilities, operating improvements, and benefits expected from its use shall be described.
 
 ## 3.2		Software inventory.
@@ -85,7 +79,7 @@ This paragraph shall list all error messages output by the software, along with 
 This paragraph shall be divided into the following subpara-graphs.
 
 ### 5.5.x		Run description for (run name or identifier).
-This paragraph shall identify a run and shall be divided into the following subparagraphs to describe the run. 
+This paragraph shall identify a run and shall be divided into the following subparagraphs to describe the run.
 
 #### 5.5.x.1	Control inputs.
 This paragraph shall provide a listing of the run stream of job control statements needed to initiate the run.
@@ -104,7 +98,7 @@ This paragraph shall provide the information needed to manage the run including,
 
 
 
-#### 5.5.x.3	Input-output files. 
+#### 5.5.x.3	Input-output files.
 This paragraph shall provide information about the files and databases that serve as input to or that are created or updated by the run. Included for each shall be information such as name, security and privacy, recording medium, retention schedule, and disposition.
 
 #### 5.5.x.4	Output reports.
@@ -119,8 +113,5 @@ This paragraph shall provide procedures to be followed by operator personnel con
 # 6.	Notes.
 This section shall contain any general information that aids in understanding this document (e.g., background information, glossary, rationale). This section shall include an alphabetical listing of all acronyms, abbreviations, and their meanings as used in this document and a list of terms and definitions needed to understand this document.
 
-# A.	Appendixes. 
+# A.	Appendixes.
 Appendixes may be used to provide information published separately for convenience in document maintenance (e.g., charts, classified data). As applicable, each appendix shall be referenced in the main body of the document where the data would normally have been provided. Appendixes may be bound as separate documents for ease in handling. Appendixes shall be lettered alphabetically (A, B, etc.).
-
-
-
